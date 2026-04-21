@@ -49,6 +49,8 @@ montgomery‑crime‑eda/
 ├── src/          # Python scripts/notebooks performing EDA and clustering
 ├── plots/        # Generated visualisations (PNG/CSV)
 └── reports/      # Project report or presentation summarising the analysis
+- The file `AP_Coursework1_Group_sanitized.zip` in the repository root contains the Montgomery County crime analysis report with personal information removed.
+- The `ap_coursework-*.png` files are extracted figures from the report (e.g., top crime types bar chart, crime categories pie chart, total crimes per year line plot).
 ```
 
 - The `src` directory contains Jupyter notebooks and scripts used to clean the data, compute statistics and produce plots.
